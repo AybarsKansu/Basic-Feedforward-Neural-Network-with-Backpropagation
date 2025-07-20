@@ -57,6 +57,7 @@ Make sure you have NumPy installed:
 
 ```bash
 pip install numpy
-
+```
+Then, run:
 
 python neural_network.py
